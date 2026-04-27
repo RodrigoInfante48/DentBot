@@ -8,18 +8,12 @@ Cada turno produce exactamente una pieza terminada y lista para publicar. Si el 
 
 ---
 
-## Qué contiene una pieza completa
+## Qué contiene un Reel completo
 
-### Estructura de Reel
 - **Encabezado:** número de pieza, título, plataforma, ángulo, duración estimada, disparador reptiliano, notas de producción
 - **HOOK (primeros 3 segundos):** frase exacta que aparece en pantalla como texto sobreimpreso — debe crear interrupción de scroll
 - **GUION COMPLETO:** texto hablado con marcas de ritmo, pausas y énfasis entre paréntesis
 - **CTA de interacción:** pregunta o instrucción de guardado para el pie de video
-- **Hashtags:** 7 hashtags relevantes
-
-### Estructura de Post
-- **Encabezado:** número de pieza, título, plataforma, ángulo, formato narrativo
-- **CAPTION COMPLETO:** texto listo para copiar y pegar, con saltos de línea y separadores `---`
 - **Hashtags:** 7 hashtags relevantes
 
 ---
@@ -63,31 +57,14 @@ CTA (últimos 5 seg)→ Mencionar DentBot una sola vez + "link en bio" + pregunt
 
 ---
 
-## Fórmula narrativa para Posts
-
-```
-PRIMERA LÍNEA GANCHO          → La primera línea sola en pantalla — debe crear curiosidad o dolor inmediato
-HISTORIA CON PERSONAJE        → Doctor/Dra. concreto, situación específica, fecha/día real
-                                 (El Dr. Mauricio el domingo a las 2 PM...)
-DIAGNÓSTICO DEL SISTEMA       → "El problema no fue [persona]. Fue [sistema]."
-                                 Separar con --- para respirar
-SOLUCIÓN                      → Describir el cambio sistémico y su resultado, sin vender duro
-                                 Mencionar DentBot como máximo una vez, al final
-PREGUNTA DE CIERRE            → Pregunta reflexiva que invite al comentario
-                                 ("¿Qué estás haciendo hoy para que esa experiencia sea memorable?")
-```
-
----
-
-## Prompt exacto para pedir una pieza
+## Prompt exacto para pedir un Reel
 
 Usar este formato exacto al solicitar contenido:
 
 ```
 Concepto: [tema o situación específica del consultorio]
 Ángulo: [Ahorro de Energía / Supervivencia / Estatus / Autoridad / Identidad]
-Formato: [Reel o Post]
-Plataforma: [Instagram Reels / TikTok / LinkedIn / Instagram]
+Plataforma: [Instagram Reels / TikTok]
 Dolor que ataca: [problema específico del odontólogo en una frase]
 ```
 
@@ -95,8 +72,7 @@ Dolor que ataca: [problema específico del odontólogo en una frase]
 ```
 Concepto: El odontólogo que no puede tomarse vacaciones porque los pacientes le escriben
 Ángulo: Ahorro de Energía
-Formato: Post
-Plataforma: Instagram / LinkedIn
+Plataforma: Instagram Reels / TikTok
 Dolor que ataca: Imposibilidad de desconectarse del consultorio sin que todo se detenga
 ```
 
@@ -104,7 +80,7 @@ Dolor que ataca: Imposibilidad de desconectarse del consultorio sin que todo se 
 
 ## Registro de temas cubiertos — NO repetir
 
-### Semana 1 (week1_4-27-26.md) — Reels 1-5 y Posts 1-5
+### Semana 1 (week1_4-27-26.md) — Reels 1-5
 
 | # | Pieza | Ángulo | Tema central |
 |---|-------|--------|-------------|
@@ -113,13 +89,8 @@ Dolor que ataca: Imposibilidad de desconectarse del consultorio sin que todo se 
 | R3 | El paciente que no volvió | Supervivencia | Pérdida silenciosa de pacientes por falta de seguimiento |
 | R4 | El disco rayado | Ahorro de Energía | Fatiga cognitiva por repetición de instrucciones 20x/día |
 | R5 | El miedo a la silla | Estatus / Autoridad | Cancelaciones por ansiedad dental pre-consulta |
-| P1 | El fin de semana interrumpido | Ahorro de Energía | WhatsApp dominical, tiempo personal del doctor |
-| P2 | El secreto del high-ticket | Estatus | Precio vs. experiencia percibida, diferenciación |
-| P3 | La recepcionista saturada | Ahorro de Energía | Multitarea que destruye la primera impresión |
-| P4 | El paciente que busca en Google | Autoridad | Vacío de información post-op que erosiona la autoridad clínica |
-| P5 | La fuga silenciosa de profilaxis | Supervivencia | Ingresos recurrentes perdidos: 300 pacientes × profilaxis |
 
-### Semana 2 (week2_5-4-26.md) — Reels 6-10 y Posts 6-10
+### Semana 2 (week2_5-4-26.md) — Reels 6-10
 
 | # | Pieza | Ángulo | Tema central |
 |---|-------|--------|-------------|
@@ -128,13 +99,8 @@ Dolor que ataca: Imposibilidad de desconectarse del consultorio sin que todo se 
 | R8 | El tiempo perdido en calmar | Ahorro de Energía | 15 min de consulta perdidos calmando miedos que pudieron resolverse antes |
 | R9 | El motor de reseñas orgánicas | Supervivencia / Estatus | Reseñas como resultado de experiencia memorable, no de ruego |
 | R10 | El PDF que nadie lee | Ahorro de Energía | PDF largo vs. mensaje corto y personalizado |
-| P6 | El taco que costó una infección | Supervivencia | Complicación post-op por vacío de comunicación: la Dra. Patricia |
-| P7 | El síndrome del odontólogo pulpo | Ahorro de Energía | 7 roles simultáneos: operador + coordinador + RRPP + soporte |
-| P8 | De qué hablan tus pacientes en las cenas | Estatus | Boca a boca basado en momentos inesperados, no en procedimientos |
-| P9 | La tensión en la sala de espera | Ahorro de Energía / Estatus | Neurociencia de la espera: 5 min = 25 percibidos, impacto clínico |
-| P10 | La franquicia brillante de enfrente | Supervivencia | Competencia con cadenas: el independiente gana por relación, no por precio |
 
-### Semana 3 (week3_5-12-26.md) — Reels 11-15 y Posts 11-15
+### Semana 3 (week3_5-12-26.md) — Reels 11-15
 
 | # | Pieza | Ángulo | Tema central |
 |---|-------|--------|-------------|
@@ -143,11 +109,6 @@ Dolor que ataca: Imposibilidad de desconectarse del consultorio sin que todo se 
 | R13 | La "Garantía" de las Carillas | Estatus | Estética dental: mantenimiento y valor a largo plazo de la inversión |
 | R14 | El paciente que "se perdió" | Supervivencia | Reactivación: pacientes inactivos hace 6+ meses |
 | R15 | Tu asistente no es un robot | Ahorro de Energía | Asistente saturada respondiendo WhatsApps básicos |
-| P11 | El implante de $2,000 perdido | Supervivencia | Fallo por descuido: paciente que olvidó instrucciones |
-| P12 | Por qué los pacientes de Orto abandonan | Estatus | Deserción ortodoncia por falta de conexión y motivación |
-| P13 | El síndrome del paciente de una sola cita | Supervivencia | Convertir urgencias en pacientes recurrentes |
-| P14 | Diferencia entre Dentista y Especialista Premium | Estatus | Receta a mano vs. portal digital personalizado |
-| P15 | ¿Vacaciones reales o con celular? | Ahorro de Energía | Burnout: disponibilidad 24/7 para dudas básicas |
 
 ---
 
