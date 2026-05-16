@@ -67,46 +67,19 @@ Router automático genera DOS fichas simultáneas en Notion
 
 ## Elige tu plan — pago único, sin suscripción mensual
 
-<table>
-<tr>
-<th width="50%">⭐ Setup Completo — $33 USD</th>
-<th width="50%">Self-Setup — $9.99 USD</th>
-</tr>
-<tr>
-<td>
+### ⭐ Setup Completo — $9.99 USD
 
 **El más elegido. El más completo.**
 
-✅ Automatización Tally + Gemini AI + Notion<br>
+✅ Plantilla de formulario Tally lista para usar<br>
 ✅ Configuración completa por el equipo DentBot<br>
 ✅ Formulario personalizado a tu especialidad<br>
 ✅ Fichas con el nombre e identidad de tu consultorio<br>
 ✅ Sesión de set-up en vivo (20-40 min)<br>
 ✅ Soporte prioritario por 30 días<br>
-🎁 **DentBot Copilot incluido GRATIS** (vale más que el plan solo)
-
-<br>
+🎁 **DentBot Copilot incluido GRATIS**
 
 **[→ Quiero el Setup Completo](https://pay.hotmart.com/X105362860D)**
-
-</td>
-<td>
-
-**Entra al sistema tú mismo.**
-
-✅ Plantilla del formulario Tally lista para usar<br>
-✅ Instrucciones paso a paso<br>
-✅ Acceso a comunidad WhatsApp<br>
-✅ Actualizaciones futuras incluidas<br>
-➕ DentBot Copilot disponible como add-on en el checkout
-
-<br><br><br><br>
-
-**[→ Quiero el Self-Setup](https://pay.hotmart.com/U105362980Y)**
-
-</td>
-</tr>
-</table>
 
 > 💡 **Ancla de precio:** Los softwares dentales tradicionales cobran $80–$200 USD al mes. DentBot es **pago único**. Sin renovaciones. Sin sorpresas. Para siempre.
 
@@ -114,7 +87,7 @@ Router automático genera DOS fichas simultáneas en Notion
 
 ## 🤖 DentBot Copilot — Tu segundo cerebro clínico
 
-**Incluido gratis en el Setup Completo. Disponible como add-on en el Self-Setup.**
+**Incluido gratis en el Setup Completo.**
 
 Mientras DentBot automatiza la anamnesis, el Copilot te acompaña *dentro* de la consulta.
 
@@ -199,17 +172,12 @@ Es un asistente de IA clínica alojado en **Google NotebookLM**, entrenado exclu
 
 ## Lo que pasa después de que compras
 
-### Si eliges el Setup Completo ($33):
+### Setup Completo ($9.99):
 1. Recibes el PDF de bienvenida con un mensaje de WhatsApp listo para enviar
 2. Rodrigo confirma tu compra y coordina horario — respuesta en menos de 2 horas
 3. Sesión de set-up en vivo (20-40 min): formulario personalizado a tu especialidad, fichas con la identidad de tu consultorio, prueba con paciente real o ficticio
 4. Sales con todo funcionando y soporte prioritario activo por 30 días
 5. Recibes acceso al DentBot Copilot — tu segundo cerebro clínico, listo para usar
-
-### Si eliges el Self-Setup ($9.99):
-1. Recibes la plantilla Tally preconfigurada
-2. Registras un paciente de prueba — las fichas se generan en segundos
-3. Revisas la Ficha PRE y la Ficha POST en tu Notion
 
 ---
 
@@ -240,8 +208,7 @@ No es una táctica. Es la realidad de un producto que se está distribuyendo act
 
 **Puedes ser de los primeros. O puedes seguir perdiendo 10 minutos por paciente.**
 
-[![Quiero el Setup Completo — $33](https://img.shields.io/badge/⭐_Setup_Completo-$33_USD_→-00E6C7?style=for-the-badge)](https://pay.hotmart.com/X105362860D)
-[![Quiero el Self-Setup — $9.99](https://img.shields.io/badge/Self--Setup-$9.99_USD_→-FFB800?style=for-the-badge)](https://pay.hotmart.com/U105362980Y)
+[![Quiero el Setup Completo — $9.99](https://img.shields.io/badge/⭐_Setup_Completo-$9.99_USD_→-00E6C7?style=for-the-badge)](https://pay.hotmart.com/X105362860D)
 
 ¿Tienes dudas? Escríbele directamente a Rodrigo: [WhatsApp +57 320 997 4750](https://wa.me/573209974750)
 
