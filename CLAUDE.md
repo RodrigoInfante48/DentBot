@@ -63,19 +63,11 @@ Cada decisión de diseño, copy y funcionalidad debe estar orientada a **remover
 
 | Producto | Precio | Canal | Estado |
 |---|---|---|---|
-| Self-Setup | $9.99 USD (pago único) | Hotmart | Activo |
-| Setup Completo | $33 USD (pago único) | Hotmart | Activo |
-| DentBot Copilot | Order bump en checkout Hotmart | Hotmart | Por configurar |
+| Setup Completo | $9.99 USD (pago único) | Hotmart | Activo |
+| DentBot Copilot | Incluido en Setup Completo | Hotmart | Activo |
 
-### Self-Setup — $9.99
-- Plantilla de formulario Tally
-- Instrucciones paso a paso
-- Acceso a comunidad WhatsApp
-- Actualizaciones futuras
-- **Link de pago:** https://pay.hotmart.com/U105362980Y
-
-### Setup Completo — $33 ⭐ (más vendido)
-- Todo lo del Self-Setup
+### Setup Completo — $9.99 ⭐ (único plan)
+- Plantilla de formulario Tally lista para usar
 - Configuración completa por el equipo DentBot
 - Logo y colores del consultorio en el form
 - Sesión de onboarding de 30 minutos
@@ -83,12 +75,11 @@ Cada decisión de diseño, copy y funcionalidad debe estar orientada a **remover
 - **🎁 Bono gratuito: DentBot Copilot** (ver abajo)
 - **Link de pago:** https://pay.hotmart.com/X105362860D
 
-### DentBot Copilot (bono + order bump)
+### DentBot Copilot (bono)
 Asistente de IA clínica alojado en Google NotebookLM, entrenado exclusivamente con una biblioteca curada de 27 documentos clínicos rigurosos — papers de PubMed, PMC y SciELO, guías universitarias, manuales de la OPS y protocolos especializados seleccionados por especialistas. **No busca en internet. No improvisa.** Solo responde con base en esa bibliografía — respuestas precisas, trazables y alineadas con los estándares de la profesión.
 
 **Estrategia comercial:**
-- Incluido gratis como bono en el Setup Completo ($33)
-- Disponible como order bump en el checkout del Self-Setup ($9.99) — precio por definir
+- Incluido gratis como bono en el Setup Completo ($9.99)
 - Nombre oficial del cuaderno: *"Banco de conocimiento: protocolos clínicos y gestión de pacientes consultados con IA"*
 
 **Áreas de conocimiento cubiertas:**
@@ -186,19 +177,7 @@ Asistente de IA clínica alojado en Google NotebookLM, entrenado exclusivamente 
 
 Lo que recibe cada comprador inmediatamente después de pagar en Hotmart.
 
-### Self-Setup ($9.99)
-El comprador recibe `DentBot_Plantilla_Bienvenida.pdf` con:
-1. **Acceder al link de DentBot** — formulario Tally preconfigurado
-2. **Registrar un paciente de prueba** — ficticio o real; la IA genera ambas fichas en segundos
-3. **Revisar las fichas en Notion** — Ficha PRE (para el odontólogo) y Ficha POST (para el paciente)
-
-**Tips clave que se le comunican al comprador:**
-- Ser detallado en el formulario = fichas más precisas
-- Compartir la ficha POST por WhatsApp o imprimirla = diferenciador frente a otros consultorios
-- Revisar la ficha PRE 10 minutos antes de cada cita = llegar preparado
-- Funciona perfecto desde el celular, sin computador
-
-### Setup Completo ($33)
+### Setup Completo ($9.99)
 El comprador recibe `DentBot_Premium_Bienvenida.pdf` con instrucciones para agendar. El proceso es:
 1. **WhatsApp al fundador** — mensaje prefabricado, solo presionar enviar
 2. **Respuesta en menos de 2 horas** — Rodrigo confirma la compra y coordina horario
@@ -206,7 +185,7 @@ El comprador recibe `DentBot_Premium_Bienvenida.pdf` con instrucciones para agen
 4. **Prueba con paciente real o ficticio** — se valida que todo funciona antes de terminar
 5. **Soporte prioritario activo** — cualquier ajuste posterior tiene respuesta prioritaria
 
-### DentBot Copilot (bono del $33 / order bump del $9.99)
+### DentBot Copilot (bono del Setup Completo)
 El comprador recibe `DentBot Copilot — Guía de Acceso.pdf` con:
 - Enlace único encriptado al cuaderno en Google NotebookLM
 - Vinculado al ID de compra en Hotmart (política anti-sharing)
@@ -298,9 +277,8 @@ La landing page `index.html` ES la VSL (Video Sales Letter). Sigue esta estructu
 ### Documentos de entrega al comprador
 | Archivo | Plan | Contenido |
 |---------|------|-----------|
-| `DentBot_Plantilla_Bienvenida.pdf` | Self-Setup ($9.99) | Bienvenida + instrucciones de activación en 3 pasos |
-| `DentBot_Premium_Bienvenida.pdf` | Setup Completo ($33) | Bienvenida premium + instrucciones para agendar set-up personalizado |
-| `DentBot Copilot — Guía de Acceso.pdf` | Copilot (ambos planes) | Acceso al cuaderno NotebookLM + política de uso |
+| `DentBot_Premium_Bienvenida.pdf` | Setup Completo ($9.99) | Bienvenida + instrucciones para agendar set-up personalizado |
+| `DentBot Copilot — Guía de Acceso.pdf` | Setup Completo ($9.99) | Acceso al cuaderno NotebookLM + política de uso |
 
 ### Recursos de contenido (YouTube)
 Videos de referencia usados para construir el conocimiento del proyecto:
@@ -354,8 +332,8 @@ git push -u origin main
 
 ### Hecho
 - [x] Landing page completa y publicada en GitHub Pages
-- [x] Dos planes de precio activos en Hotmart ($9.99 y $33)
-- [x] Card $33 posicionada primero como "Más vendido"
+- [x] Plan único de precio activo en Hotmart ($9.99 — Setup Completo)
+- [x] Card $9.99 posicionada como único plan
 - [x] Barra de escasez animada (40/48 cupos)
 - [x] Meta Pixel y Google Analytics integrados
 - [x] OG image para redes sociales
@@ -366,7 +344,5 @@ git push -u origin main
 - [x] CLAUDE.md expandido con visión del fundador, metas de negocio, tono de marca, proceso de onboarding post-venta y recursos de contenido
 
 ### Pendiente
-- [ ] Configurar DentBot Copilot como order bump en Hotmart para el plan $9.99
-- [ ] Definir precio del order bump del Copilot
 - [ ] Video demo embebido en la sección hero (actualmente es thumbnail estático)
 - [ ] Testimoniales reales de odontólogos (sección eliminada en refactor anterior)
